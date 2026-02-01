@@ -1,4 +1,4 @@
-tweepy
+tweepy>=4.14.0
 groq
 requests
 python-dotenv
